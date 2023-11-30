@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CsvToWpf/bin/Debug/net7.0-windows
+/CsvToWpf/.vs
+/.vs
+/CsvToWpf/obj
+/CsvToWpfData/bin/Debug/net7.0
+/CsvToWpfData/obj
+/CsvToWpf/CsvToWpf.csproj.user
